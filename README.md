@@ -1,14 +1,11 @@
-# ComfyUI-TP-OmnimatteZero
+# ComfyUI-TP-Mldepthpro2
 Comfy UI nodes for Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth
 
-![omnimatte_screen2](https://github.com/user-attachments/assets/5ba81c68-3906-403d-a6ed-efe3187460b6)
+<img width="1531" height="638" alt="2026-11-20_10-31" src="https://github.com/user-attachments/assets/dbbabc2c-81af-4ff9-8516-ef2dde162386" />
+<img width="915" height="1072" alt="2026-11-20_10-27_1" src="https://github.com/user-attachments/assets/820bf764-78da-4071-b72d-47e1380a7867" />
+<img width="1961" height="815" alt="2026-11-20_10-27" src="https://github.com/user-attachments/assets/de02829b-867c-4d5f-bde6-4bfcd6f33300" />
+<img width="2400" height="1149" alt="2026-11-20_10-26" src="https://github.com/user-attachments/assets/d8417030-db56-4936-b231-5bd5cd91091f" />
 
-
-
-
-![ezgif-24d32e5ea9aa0fa0](https://github.com/user-attachments/assets/ca04fbe1-5000-486d-af4b-46f33b9b68b2)
-![ezgif-2e3327031d5e3d5c](https://github.com/user-attachments/assets/428a987b-df3d-42b8-9952-2938092c42df)
-![ezgif-2afdaebd17d6f637](https://github.com/user-attachments/assets/0d555381-c4e6-4ebf-a22e-a4eab22258a0)
 
 
 ✅ Install on Comfy via Manager: 
