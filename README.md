@@ -64,5 +64,4 @@ Peak memory (GiB)
 
 
 
-Original repo:  
-https://github.com/dvirsamuel/OmnimatteZero
+
