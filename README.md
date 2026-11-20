@@ -1,14 +1,15 @@
 # ComfyUI-TP-Mldepthpro2
 Comfy UI nodes for Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth
 
+<img width="1961" height="815" alt="2026-11-20_10-27" src="https://github.com/user-attachments/assets/de02829b-867c-4d5f-bde6-4bfcd6f33300" />
 <img width="1531" height="638" alt="2026-11-20_10-31" src="https://github.com/user-attachments/assets/dbbabc2c-81af-4ff9-8516-ef2dde162386" />
 <img width="915" height="1072" alt="2026-11-20_10-27_1" src="https://github.com/user-attachments/assets/820bf764-78da-4071-b72d-47e1380a7867" />
-<img width="1961" height="815" alt="2026-11-20_10-27" src="https://github.com/user-attachments/assets/de02829b-867c-4d5f-bde6-4bfcd6f33300" />
 <img width="2400" height="1149" alt="2026-11-20_10-26" src="https://github.com/user-attachments/assets/d8417030-db56-4936-b231-5bd5cd91091f" />
 
 
 
 ✅ Install on Comfy via Manager: 
+
 soon
 
 
