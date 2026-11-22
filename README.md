@@ -13,7 +13,8 @@ https://arxiv.org/pdf/2611.26603
 
 ✅ Install on Comfy via Manager: 
 
-soon
+
+If you are using ComfyUI Manager, you can load a workflow first, and then install the missing nodes via ComfyUI Manager.
 
 
 
